@@ -1,5 +1,5 @@
 # Cellular Edge Detection
-<p align="justify"> Matlab codes for Cellur Edge Detection (CED) <a href="http://www.sciencedirect.com/science/article/pii/S1434841115001454"  target="_blank">[1]</a>. </p>
+<p align="justify"> Matlab codes for Cellur Edge Detection (CED) algorithm <a href="http://www.sciencedirect.com/science/article/pii/S1434841115001454"  target="_blank">[1]</a>. </p>
 <h2><a href="http://cs.pitt.edu/~hasanzadeh/files/papers/2015-AEU-CED.pdf" target="_blank">Full Text</a></h2>
 <h2><a id="abstract" class="anchor" href="#abstract" aria-hidden="true"><span class="octicon octicon-link"></span></a>Abstract</h2>
 
