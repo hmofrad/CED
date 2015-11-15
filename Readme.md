@@ -1,4 +1,4 @@
-# SuccessRate-PSO
+# Cellular Edge Detection
 <p align="justify"> Matlab codes for Cellur Edge Detection (CED) <a href="http://www.sciencedirect.com/science/article/pii/S1434841115001454"  target="_blank">[1]</a>. </p>
 <h2><a href="cs.pitt.edu/~hasanzadeh/files/papers/2015-AEU-CED.pdf" target="_blank">Full Text</a></h2>
 <h2><a id="abstract" class="anchor" href="#abstract" aria-hidden="true"><span class="octicon octicon-link"></span></a>Abstract</h2>
@@ -8,6 +8,6 @@
 <h2><a id="reference" class="anchor" href="#reference" aria-hidden="true"><span class="octicon octicon-link"></span></a>Reference</h2>
 
 
-<p align="justify"> [1] Mohammad Hasanzadeh, Sana Sadeghi, Alireza Rezvanian and and Mohammad Reza Meybodi"<a href="http://www.tandfonline.com/doi/full/10.1080/0952813X.2014.971467"  target="_blank"> Success rate group search optimiser</a>," Computing, 2014, vol. 96, no. 9, pp.909-922.</p>
+<p align="justify"> [1] Mohammad Hasanzadeh, Sana Sadeghi, Alireza Rezvanian and and Mohammad Reza Meybodi"<a href="http://www.sciencedirect.com/science/article/pii/S1434841115001454"  target="_blank"> Cellular edge detection: Combining cellular automata and cellular learning automata</a>," AEU - International Journal of Electronics and Communications, 2015, vol. 69, no. 1, pp.1282-1290.</p>
 
 
